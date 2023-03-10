@@ -2,17 +2,14 @@
 
 #### -- Project Status: [Complete]
 
-## Project descrption
+## 📒 Project descrption
 This git repository contains the source code for a To-Do application built using React. The application allows users to create and delete tasks, as well as mark them as completed. The project is structured using the component-based architecture of React, with reusable components such as TodoList, TodoForm, and Todo.
 
 [![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)]()
 [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)]()
 
-### Demo
+## 📹 Demo
 ![Demo gif](https://github.com/alyshapm/react-todo/blob/main/rsrc/demo.gif)
-
-### Component Hierarcy
-![Component Hierarcy](rsrc/hierarchy.png)
 
 ## 📁 File Directory
 
@@ -28,7 +25,10 @@ This git repository contains the source code for a To-Do application built using
 
 - Alysha.js: This file displays the full name and student ID information and used within the App component.
 
-### Dependencies
+## Component Hierarcy
+![Component Hierarcy](rsrc/hierarchy.png)
+
+## Dependencies
 * Frontend: ReactJS
 
 ## Getting started
