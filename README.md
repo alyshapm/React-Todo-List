@@ -11,7 +11,7 @@ This git repository contains the source code for a To-Do application built using
 ### Demo
 
 ### Component Hierarcy
-![ERD Image](ERD.png)
+![Component Hierarcy](rsrc/hierarchy.jpg)
 
 ## 📁 File Directory
 
