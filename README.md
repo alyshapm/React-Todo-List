@@ -9,9 +9,10 @@ This git repository contains the source code for a To-Do application built using
 [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)]()
 
 ### Demo
+![Demo gif](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 
 ### Component Hierarcy
-![ERD Image](ERD.png)
+![Component Hierarcy](rsrc/hierarchy.png)
 
 ## 📁 File Directory
 
@@ -34,6 +35,13 @@ This git repository contains the source code for a To-Do application built using
 
 1. Clone this repo.
 ```bash
-pip 
+git clone https://github.com/alyshapm/react-todo
 ```
-2. Import SQL file from **database** folder to a localserver such as WAMP/XAMPP/MAMP.
+2. Switch directory to the app folder.
+```bash
+cd react-todo
+```
+3. Run file.
+```bash
+npm start
+```
