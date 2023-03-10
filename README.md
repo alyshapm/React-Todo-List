@@ -12,7 +12,7 @@ This git repository contains the source code for a To-Do application built using
 ![Demo gif](https://github.com/alyshapm/react-todo/blob/main/rsrc/demo.gif)
 
 ### Component Hierarcy
-![Component Hierarcy](rsrc/hierarchy.png){width=800}
+![Component Hierarcy](rsrc/hierarchy.png){width=500}
 
 ## 📁 File Directory
 
