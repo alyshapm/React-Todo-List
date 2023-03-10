@@ -31,7 +31,7 @@ Live: https://alyshapm.github.io/react-todo/
 * ReactJS
 * FontAwesome icons
 
-## 👩‍💻 Getting started
+## 👩‍💻 Run locally
 
 1. Clone this repo.
 ```bash
