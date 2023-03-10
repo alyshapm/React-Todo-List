@@ -32,7 +32,7 @@ This git repository contains the source code for a To-Do application built using
 * ReactJS
 * FontAwesome icons
 
-## Getting started
+## 👩‍💻 Getting started
 
 1. Clone this repo.
 ```bash
