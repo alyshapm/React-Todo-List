@@ -9,6 +9,7 @@ This git repository contains the source code for a To-Do application built using
 [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)]()
 
 ### Demo
+![Demo gif](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 
 ### Component Hierarcy
 ![Component Hierarcy](rsrc/hierarchy.png)
