@@ -1,8 +1,8 @@
-# To-do list with React ✅
+# To-do list with React 
 
 #### -- Project Status: [Complete]
 
-## 📒 Project descrption
+## ✅ Project descrption
 This git repository contains the source code for a To-Do application built using React. The application allows users to create and delete tasks, as well as mark them as completed. The project is structured using the component-based architecture of React, with reusable components such as TodoList, TodoForm, and Todo.
 
 ## 📹 Demo
