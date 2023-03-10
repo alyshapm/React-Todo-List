@@ -27,7 +27,7 @@ Live: https://alyshapm.github.io/react-todo/
 ## Component Hierarcy
 ![Component Hierarcy](rsrc/hierarchy.png)
 
-## Dependencies
+## Modules
 * ReactJS
 * FontAwesome icons
 
