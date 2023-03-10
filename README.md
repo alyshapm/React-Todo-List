@@ -29,7 +29,8 @@ This git repository contains the source code for a To-Do application built using
 ![Component Hierarcy](rsrc/hierarchy.png)
 
 ## Dependencies
-* Frontend: ReactJS
+* ReactJS
+* FontAwesome icons
 
 ## Getting started
 
