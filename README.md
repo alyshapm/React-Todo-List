@@ -34,6 +34,13 @@ This git repository contains the source code for a To-Do application built using
 
 1. Clone this repo.
 ```bash
-pip 
+git clone https://github.com/alyshapm/react-todo
 ```
-2. Import SQL file from **database** folder to a localserver such as WAMP/XAMPP/MAMP.
+2. Switch directory to the app folder.
+```bash
+cd react-todo
+```
+3. Run file.
+```bash
+npm start
+```
