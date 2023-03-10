@@ -5,9 +5,6 @@
 ## 📒 Project descrption
 This git repository contains the source code for a To-Do application built using React. The application allows users to create and delete tasks, as well as mark them as completed. The project is structured using the component-based architecture of React, with reusable components such as TodoList, TodoForm, and Todo.
 
-[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)]()
-[![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)]()
-
 ## 📹 Demo
 ![Demo gif](https://github.com/alyshapm/react-todo/blob/main/rsrc/demo.gif)
 
