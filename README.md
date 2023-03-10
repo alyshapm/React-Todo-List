@@ -1,4 +1,4 @@
-# To-do list with React 
+<h1 align="center">To-do list with React</h1>
 
 #### -- Project Status: [Complete]
 
