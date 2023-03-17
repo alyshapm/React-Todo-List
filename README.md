@@ -3,7 +3,7 @@
 #### -- Project Status: [Complete]
 
 ## ✅ Project descrption
-This git repository contains the source code for a To-Do application built using React. The application allows users to create and delete tasks, as well as mark them as completed. The project is structured using the component-based architecture of React, with reusable components such as TodoList, TodoForm, and Todo.
+This is a simple todo application built with React that integrates Firebase for user authentication. The app allows users to create, edit and delete tasks, and sign up and log in with their email and password. The project is structured using the component-based architecture of React, with reusable components such as TodoList, TodoForm, and Todo.
 
 ## 📹 Demo
 Live: https://alyshapm.github.io/react-todo/
@@ -24,14 +24,20 @@ Live: https://alyshapm.github.io/react-todo/
 
 - `Alysha.js`: This file displays the full name and student ID information and used within the App component.
 
+- `Login.js`, `Register.js`, `Reset.js` & `Logout.js`: This files contains the logic for allowing users to log in/register/reset password/logout. It typically includes a form with fields for the user's email and password, and it uses the Firebase Authentication API to authenticate the user's credentials. If the user is authenticated successfully, the app can redirect them to dashboard (todo app).
+
 ## Component Hierarcy
 ![Component Hierarcy](rsrc/hierarchy.png)
 
 ## Modules
 * ReactJS
 * FontAwesome icons
+* Firebase Authentication
+* Cloud Firestore
 
 ## 👩‍💻 Run locally
+
+To run this app on your local machine, you will need to have Node.js and npm (or yarn) installed.
 
 1. Clone this repo.
 ```bash
@@ -41,7 +47,18 @@ git clone https://github.com/alyshapm/react-todo
 ```bash
 cd react-todo
 ```
-3. Run file.
+3. Create a Firebase project and set up authentication with email and password. Refer to Firebase documentation for instructions.
+
+4. Create a `.env.local` file in the root directory of the project and add your Firebase config information as environment variables:
+```bash
+REACT_APP_FIREBASE_API_KEY=<your-api-key>
+REACT_APP_FIREBASE_AUTH_DOMAIN=<your-auth-domain>
+REACT_APP_FIREBASE_PROJECT_ID=<your-project-id>
+```
+5. Run file.
 ```bash
 npm start
 ```
+
+## Acknowledgements
+This app was created based on ![https://blog.logrocket.com/user-authentication-firebase-react-apps/](this tutorial) by Yusuff Faruq.
