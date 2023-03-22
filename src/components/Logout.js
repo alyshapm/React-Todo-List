@@ -11,7 +11,7 @@ export const Logout = () => {
     useEffect(() => {
     setTimeout(() => {
         // 👇 Redirects to about page, note the `replace: true`
-        navigate('/login', { replace: true });
+        navigate('/react-todo', { replace: true });
         }, 3000);
     }, []);
 
