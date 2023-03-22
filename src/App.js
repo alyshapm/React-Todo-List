@@ -16,7 +16,7 @@ function App() {
       {/* auth */}
       <Router>
         <Routes>
-          <Route path="/react-todo" element={<Login />} />
+          <Route path="/" element={<Login />} />
           <Route exact path="/register" element={<Register />} />
           <Route exact path="/reset" element={<Reset />} />
           <Route exact path="/dashboard" element={<Dashboard />} />
